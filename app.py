@@ -91,7 +91,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("✨ Biscoito da Sorte Interativo ✨")
+st.title("✨ Biscoitão 🍪 da Sorte ✨")
 st.markdown(
     "<div style='font-size:1.18em;color:#a71b32;margin-bottom:18px;'>"
     "Responda o quiz e veja sua mensagem especial no final!"
