@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#D7263D"        # Vermelho vibrante (botões, seleções, títulos)
+backgroundColor="#FFF0F0"     # Fundo bem claro, rosado
+secondaryBackgroundColor="#FFE6E6" # Segundo fundo (caixas, menus)
+textColor="#A71B32"           # Vermelho escuro, para textos
+font="sans serif"
