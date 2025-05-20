@@ -2,7 +2,7 @@ import streamlit as st
 import random
 import urllib.parse
 
-st.set_page_config(page_title="Biscoito da Sorte Interativo", page_icon="✨", layout="centered")
+st.set_page_config(page_title="Biscoitão da Sorte", page_icon="✨", layout="centered")
 
 # 🎨 CSS customizado: vermelho moderno, efeito suave, nada de retângulo no resultado!
 st.markdown("""
