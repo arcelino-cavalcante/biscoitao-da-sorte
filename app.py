@@ -90,6 +90,14 @@ st.markdown("""
         }
     </style>
 """, unsafe_allow_html=True)
+# OCULTA menus, header e rodapé
+st.markdown("""
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+""", unsafe_allow_html=True)
 
 st.title("✨ Biscoitão 🍪 da Sorte ✨")
 st.markdown(
