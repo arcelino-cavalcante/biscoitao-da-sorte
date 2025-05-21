@@ -312,7 +312,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 st.markdown("---")
 
 # Link do app (ajuste para o link real quando publicar)
-app_url = "https://seu-app-biscoito.streamlit.app/"
+app_url = "https://biscoitao-malucao-da-sorte.streamlit.app/"
 mensagem_whatsapp = f"Recebi uma mensagem do biscoito da sorte e lembrei de você! Clique e descubra sua mensagem especial: {app_url}"
 mensagem_whatsapp_url = "https://wa.me/?text=" + urllib.parse.quote(mensagem_whatsapp)
 
